@@ -23,7 +23,7 @@ Azure Container Registry provides the functionality to store and share private c
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/nUepaF5.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -40,7 +40,7 @@ Azure Container Registry provides the functionality to store and share private c
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/vMIl5ag.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -56,7 +56,7 @@ docker login -u <SP_USERNAME> -p <SP_PASSWORD> <REGISTRY_LOGIN_SERVER>
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/8VZY4Rj.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -70,7 +70,7 @@ docker pull mcr.microsoft.com/dotnet/samples:aspnetapp
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/mi4Aaxq.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -84,7 +84,7 @@ docker tag mcr.microsoft.com/dotnet/samples:aspnetapp <REGISTRY_LOGIN_SERVER>/as
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/R2UpVJ5.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -98,7 +98,7 @@ docker push <REGISTRY_LOGIN_SERVER>/aspnetapp
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/6HcDCCt.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -109,7 +109,7 @@ docker push <REGISTRY_LOGIN_SERVER>/aspnetapp
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/oOmECLq.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -124,7 +124,7 @@ docker image ls
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/aH1H23R.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -138,7 +138,7 @@ docker image rm <IMAGE_ID> -f
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/2W35H4j.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -152,7 +152,7 @@ docker pull <REGISTRY_LOGIN_SERVER>/aspnetapp
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/mO1OxZG.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -166,7 +166,7 @@ docker run -p 8080:80 -d <REGISTRY_LOGIN_SERVER>/aspnetapp:latest
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/ce7m3Yt.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -177,7 +177,7 @@ docker run -p 8080:80 -d <REGISTRY_LOGIN_SERVER>/aspnetapp:latest
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/S70PMGh.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
